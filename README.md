@@ -1,2 +1,2 @@
-# mambbts-website
-Official website for NumBTS
+# Nambbts-website
+Official website for NamBTS
